@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-08-06](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-08-11](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -141,7 +141,7 @@
 		<td > 24 </td> <td > 皮皮虾净化及去水印 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/bb1dadbd32f67c68772caebcc70b0a33/raw/pipixia.adblock.js"><em>pipixia.adblock.js</em></a></td><td>Liquor030</td>  
     </tr>
 	<tr>
-		<td > 25 </td> <td > 什么值得买 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.qxrewrite"><em>smzdmAds.conf</em></a></td><td>blackmatrix7</td>  
+		<td > 25 </td> <td > 什么值得买 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/SmzdmAds.conf"><em>smzdmAds.conf</em></a></td><td>blackmatrix7</td>  
     </tr>
 			<tr>
 		<td > 26 </td> <td > 微信阅读精简 </td> <td ><a href="https://raw.githubusercontent.com/Maasea/sgmodule/master/WeRead.sgmodule"><em>WeRead.sgmodule</em></a></td><td>Maasea</td>  
@@ -266,6 +266,7 @@
 * 加入[***Cuttlefishの自留地***](https://t.me/ddgksf2021)，第一时间获取最新消息
 * 如有任何关于本库使用的问题可邮件 *ddgksf2013@163.com* 询问
 * 若有需要Crack去广告的应用或小程序可在[***Google文档***](https://docs.google.com/spreadsheets/d/1HDDSd5uadmqyd0UuBsIJltuRzLdME0P6LuaWPbURgWM) 中反馈
+* 如果你不懂编程或不想折腾，又有相对复杂的功能需求，可以考虑找[***ddgksf2013***](https://t.me/ddgksf2013)`付费定制` 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
