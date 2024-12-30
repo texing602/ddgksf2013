@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2024-11-30](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2024-12-22](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -17,7 +17,7 @@
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
 
 ## 1️⃣QuantumultX 小白2.0配置：
-* 配置更新时间：2024-10-28
+* 配置更新时间：2024-12-13
 * 墨鱼自用QX配置 [***Cuttlefish.conf***](https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf) 
 * 上述配置支持QuantumultX商店最新版，包括图标库订阅、超级VIP、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 idayer 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
@@ -166,7 +166,7 @@
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="12"><strong>应用增强</strong></td>
+		<td rowspan="13"><strong>应用增强</strong></td>
 		<td > 1 </td> <td > <s>B站自动换区</s>[不适用新版] </td> <td ><s><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></s></td><td>Nobyda</td>
     </tr>
 	<tr>
@@ -201,6 +201,9 @@
     </tr>
 			<tr>
 		<td > 12 </td> <td > <strong>IOS解锁天气服务</strong> </td> <td ><a href="https://github.com/NSRingo/WeatherKit/releases/latest/download/WeatherKit.snippet"><em>WeatherKit.snippet</em></a></td><td>VirgilClyne</td>  
+    </tr>
+			<tr>
+		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/JD_Price.sgmodule"><em>JD_Price.sgmodule</em></a></td><td>wf021325</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -277,13 +280,14 @@
 * 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/ddgksf2013/Awesome-Android-Apps)
 * 墨鱼自用去广告融合版模块[适用于小火箭、Surge] [***Adblock.sgmodule***](https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule)
 * 捷径去IOS应用开屏广告 [***Shoutcut.md***](https://t.me/ddgksf2021/6454)
+* DNS去广告多端适用类似分流去广告 [*18bitNDS*](https://go.18bit.cn/help-docs/help-docs-index.html)
 
 
 ## 7️⃣Telegram 通知频道：
 * 加入[***Cuttlefishの自留地***](https://t.me/ddgksf2021)，第一时间获取最新消息
 * 如使用本库脚本导致APP问题可向墨鱼邮件 *ddgksf2013@163.com* 反馈
 * 若有需要Crack去广告的应用或小程序可在[***Google文档***](https://docs.google.com/spreadsheets/d/1HDDSd5uadmqyd0UuBsIJltuRzLdME0P6LuaWPbURgWM) 中反馈
-* 如果你不懂编程或不想折腾，又有相对复杂的功能需求，可以考虑找[***ddgksf2013***](https://t.me/ddgksf2013)`付费定制` 
+* 如果你不懂编程或不想折腾，又有相对复杂的功能需求，可以考虑找[***ddgksf2013***](https://t.me/ddgksf2013)`付费定制`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
