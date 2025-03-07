@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-02-21](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-02-27](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -35,7 +35,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
-		<td rowspan="10"><strong>会员解锁</strong></td>
+		<td rowspan="11"><strong>会员解锁</strong></td>
 		<td > 1</td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
@@ -64,6 +64,9 @@
     </tr>
 	<tr>
 		<td > 10 </td> <td > 端传媒VIP </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/Duan.Vip.sgmodule"><em>Duan.Vip.sgmodule</em></a></td><td>ddgksf2013</td>
+    </tr>
+<tr>
+		<td > 11 </td> <td > Goodbility会员 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Modules/main/Goodbility.Vip.sgmodule"><em>Goodbility.Vip.sgmodule</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -268,7 +271,7 @@
 * QuantumultX测试版[***更新日志***](https://github.com/ddgksf2013/Profile/raw/master/QX_TestFlight_Update.log)
 * 屏蔽IOS更新2024.11 [***点我***](https://d-updater.i4.cn/web/mobileconfig/iOS18.mobileconfig)
 * 自用Clash配置 [*ClashforWindows.yaml*](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
-* 自用机场推荐，[***点我直达***](https://luyuyun.com/register?code=hInnvtyc) `勿年付`
+* 自用机场推荐，[***点我直达***](https://luyuyun.com/register?code=hInnvtyc) `建议月付，请勿年付`
 * 1080P超清IPTV国内[***直播源***](https://live.zbds.top/tv/iptv4.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html) 
 * 墨鱼网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
@@ -287,8 +290,8 @@
 
 ## 7️⃣Telegram 通知频道：
 * 加入[***Cuttlefishの自留地***](https://t.me/ddgksf2021)，第一时间获取最新消息
-* 如使用本库脚本导致APP问题可向墨鱼邮件 *ddgksf2013@163.com* 反馈
-* 若有需要Crack去广告的应用或小程序可在[***Google文档***](https://docs.google.com/spreadsheets/d/1HDDSd5uadmqyd0UuBsIJltuRzLdME0P6LuaWPbURgWM) 中反馈
+* 如使用本库脚本导致APP的Bug可向墨鱼邮件 *ddgksf2013@163.com* 反馈
+* 若有需要去除开屏广告的APP可在[***Google文档***](https://docs.google.com/spreadsheets/d/1HDDSd5uadmqyd0UuBsIJltuRzLdME0P6LuaWPbURgWM) 中反馈
 * 如果你不懂编程或不想折腾，又有相对复杂的功能需求，可以考虑找[***ddgksf2013***](https://t.me/ddgksf2013)`付费定制`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
