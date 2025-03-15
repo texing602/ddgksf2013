@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-02-27](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-03-12](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -36,7 +36,7 @@
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
 		<td rowspan="11"><strong>会员解锁</strong></td>
-		<td > 1</td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
+		<td > 1</td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/BilibiliAds.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
 		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
@@ -271,7 +271,7 @@
 * QuantumultX测试版[***更新日志***](https://github.com/ddgksf2013/Profile/raw/master/QX_TestFlight_Update.log)
 * 屏蔽IOS更新2024.11 [***点我***](https://d-updater.i4.cn/web/mobileconfig/iOS18.mobileconfig)
 * 自用Clash配置 [*ClashforWindows.yaml*](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
-* 自用机场推荐，[***点我直达***](https://luyuyun.com/register?code=hInnvtyc) `建议月付，请勿年付`
+* 自用机场推荐，[***点我直达***](https://portal.xn--9kqu90mqwl.com/register?code=hInnvtyc) `建议月付，请勿年付`
 * 1080P超清IPTV国内[***直播源***](https://live.zbds.top/tv/iptv4.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html) 
 * 墨鱼网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
