@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-03-12](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-03-20](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -97,7 +97,7 @@
 		<td > 8 </td> <td > <em>喜马拉雅去广告</em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 9 </td> <td > 小红书去水印</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 9 </td> <td > 小红书去水印</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShuAds.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 10 </td> <td > Keep超级净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/KeepStyle.conf"><em>keepStyle.conf</em></a></td><td>ddgksf2013</td>  
@@ -271,7 +271,7 @@
 * QuantumultX测试版[***更新日志***](https://github.com/ddgksf2013/Profile/raw/master/QX_TestFlight_Update.log)
 * 屏蔽IOS更新2024.11 [***点我***](https://d-updater.i4.cn/web/mobileconfig/iOS18.mobileconfig)
 * 自用Clash配置 [*ClashforWindows.yaml*](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
-* 自用机场推荐，[***点我直达***](https://portal.xn--9kqu90mqwl.com/register?code=hInnvtyc) `建议月付，请勿年付`
+* 自用机场推荐，[***点我直达***](https://bit.ly/tkvss) ，建议季付，勿年付 `折上8折码：N0G6PR04YV`
 * 1080P超清IPTV国内[***直播源***](https://live.zbds.top/tv/iptv4.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html) 
 * 墨鱼网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
