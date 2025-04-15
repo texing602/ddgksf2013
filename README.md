@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-04-02](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-04-10](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -17,7 +17,7 @@
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
 
 ## 1️⃣QuantumultX 小白2.0配置：
-* 配置更新时间：2025-01-04
+* 配置更新时间：2025-04-05
 * 墨鱼自用QX配置 [***Cuttlefish.conf***](https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf) 
 * 上述配置支持QuantumultX商店最新版，包括图标库订阅、超级VIP、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 idayer 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
@@ -124,7 +124,7 @@
 		<td > 17 </td> <td > <strong>网易云去广告</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/NeteaseAds.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 18 </td> <td > 菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 18 </td> <td > 菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CainiaoAds.conf"><em>CainiaoAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 19 </td> <td > 起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  
@@ -206,7 +206,7 @@
 		<td > 12 </td> <td > <strong>IOS解锁天气服务</strong> </td> <td ><a href="https://github.com/NSRingo/WeatherKit/releases/latest/download/WeatherKit.snippet"><em>WeatherKit.snippet</em></a></td><td>VirgilClyne</td>  
     </tr>
 			<tr>
-		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/JD_Price.sgmodule"><em>JD_Price.sgmodule</em></a><br><a href="https://raw.githubusercontent.com/githubdulong/Script/master/Surge/jd_price2.sgmodule"><em>jd_price2.sgmodule</em></a></td><td>wf021325<br>小白脸</td>  
+		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/JD_Price.sgmodule"><em>JD_Price.sgmodule</em></a></td><td>wf021325<br>小白脸</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
