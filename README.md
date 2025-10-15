@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-10-04](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-10-09](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -54,7 +54,7 @@
 		<td > 4 </td> <td ><strong>酷我SVIP+净化</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/mykkmusic.vip.js"><em>kuwomusic.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 5 </td> <td > <s>财新周刊VIP</s> </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
+		<td > 5 </td> <td > <s>财新周刊VIP</s><br>官方停止运营 </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 6 </td> <td > Nicegram高级版<br> [也可用Swiftgram]</td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td>
@@ -78,7 +78,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="37"><strong>广告屏蔽</strong></td>
+		<td rowspan="38"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -188,6 +188,9 @@
     </tr>
 <tr>
 		<td > 37 </td> <td > 小宇宙FM去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/XiaoYuZhouAds.conf"><em>XiaoYuZhouAds.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+<tr>
+		<td > 38 </td> <td > 车来了净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/CheLaiLeAds.cof"><em>CheLaiLeAds.cof</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
