@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-11-14](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-11-21](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -70,7 +70,7 @@
 		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
     </tr>
 	<tr>
-		<td > 10 </td> <td > 端传媒VIP<br><code>旧版V3.2</code> </td> <td ><a href="https://ddgksf2013.top/scripts/duan.vip.js"><em>duan.vip.js</em></a></td><td>ddgksf2013</td>
+		<td > 10 </td> <td > 端传媒VIP<br><code>旧版V3.2</code> </td> <td ><a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%22rewrite_remote%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22https%3A%2F%2Fddgksf2013.top%2Fscripts%2Fduan.vip.js%2C%20tag%3D%E7%AB%AF%E4%BC%A0%E5%AA%92Pro%2C%20update-interval%3D86400%2C%20opt-parser%3Dtrue%2C%20enabled%3Dtrue%22%0A%20%20%20%20%5D%0A%7D%0A"><em>duan.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 <tr>
 		<td > 11 </td> <td > Goodbility会员 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Modules/main/Goodbility.Vip.sgmodule"><em>Goodbility.sgmodule</em></a></td><td>ddgksf2013</td>
@@ -79,11 +79,11 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="39"><strong>广告屏蔽</strong></td>
+		<td rowspan="40"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
-		<td > 2 </td> <td > <strong>墨鱼去开屏2.0</strong> </td> <td ><a href="https://ddgksf2013.top/rewrite/StartUpAds.conf"><em>StartUpAds.conf</em></a></td><td>ddgksf2013</td>
+		<td > 2 </td> <td > <strong>墨鱼去开屏2.0</strong> </td> <td ><a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%22rewrite_remote%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22https%3A%2F%2Fddgksf2013.top%2Frewrite%2FStartUpAds.conf%2C%20tag%3D%E5%A2%A8%E9%B1%BC%E5%8E%BB%E5%BC%80%E5%B1%8F2.0%40ddgksf2013%2C%20img-url%3Dhttps%3A%2F%2Fgithub.com%2FKoolson%2FQure%2Fraw%2Fmaster%2FIconSet%2Fmini%2FAdvertising.png%2C%20update-interval%3D86400%2C%20opt-parser%3Dfalse%2C%20enabled%3Dtrue%22%0A%20%20%20%20%5D%0A%7D%0A"><em>StartUpAds.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
 		<td > 3 </td> <td > 油管广告屏蔽<br><strong><em>视频自动PIP+背景播放</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  
@@ -195,6 +195,9 @@
     </tr>
 <tr>
 		<td > 39 </td> <td > 墨迹天气去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/MoJiWeatherAds.conf"><em>MoJiWeatherAds.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+<tr>
+		<td > 40 </td> <td > 搜图神器净化 </td> <td ><a href="https://ddgksf2013.top/rewrite/SouTuShenQiAds.conf"><em>SouTuShenQiAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
