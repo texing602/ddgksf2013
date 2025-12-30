@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-12-12](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-12-28](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -24,7 +24,7 @@
 
 ## 1️⃣QuantumultX 小白2.0配置：
 * 配置更新时间：2025-11-14
-* 墨鱼自用QX配置 [***Cuttlefish.conf***](https://gist.githubusercontent.com/ddgksf2013/cf38fcf85651f6b467df590da03dfcf8/raw/QuantumultX.conf) 
+* 墨鱼自用QX配置 [***Cuttlefish.conf***](https://ddgksf2013.top/Profile/QuantumultX.conf) 
 * 上述配置支持QuantumultX商店最新版，包括图标库订阅、超级VIP、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 idayer 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
 * 更多懒人配置请狠狠的 [***Click me***](https://github.com/ddgksf2013/Profile)
@@ -79,7 +79,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="42"><strong>广告屏蔽</strong></td>
+		<td rowspan="41"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -98,7 +98,7 @@
 		<td > 6 </td> <td > 百度贴吧去广告 </td> <td ><a href="https://github.com/app2smile/rules/raw/master/module/tieba-qx.conf"><em>Tieba_Ads.conf</em></a></td><td>app2smile</td>  
     </tr>
 	<tr>
-		<td > 7 </td> <td > 百度网盘去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.adblock.js"><em>BdPanAdBlock.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 7 </td> <td > 百度网盘去广告 </td> <td ><a href="https://ddgksf2013.top/scripts/bdpan.ads.js"><em>bdpan.ads.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 		<tr>
 		<td > 8 </td> <td > <em>喜马拉雅去广告</em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>ddgksf2013</td>  
@@ -137,7 +137,7 @@
 		<td > 19 </td> <td > 起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  
     </tr>
 	<tr>
-		<td > 20 </td> <td > 随手记去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/SuiShouJi.conf"><em>SuiShouJi.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 20 </td> <td > 随手记去广告 </td> <td ><a href="https://ddgksf2013.top/scripts/suishouji.ads.js"><em>SuiShouJi.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 21 </td> <td > Bing首页简化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/BingSimplify.conf"><em>BingSimplify.conf</em></a></td><td>ddgksf2013</td>  
@@ -161,49 +161,46 @@
 		<td > 27 </td> <td > 滴滴出行 </td> <td ><a href="https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Didichuxing.snippet"><em>Didichuxing.snippet</em></a></td><td>ZenmoFeiShi</td>  
     </tr>
 	<tr>
-		<td > 28 </td> <td > 百度网盘净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.adblock.js"><em>BaiduCloud.conf</em></a></td><td>ddgksf2013</td>
-    	</tr>
-	<tr>
-		<td > 29 </td> <td > 黑木耳去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d3a5059645378a05861d6ba18e2fda4c/raw/cmsAdblock.js"><em>cmsAdblock.js</em></a></td><td>Yswag<br>ddgksf2013</td>
+		<td > 28 </td> <td > 黑木耳去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d3a5059645378a05861d6ba18e2fda4c/raw/cmsAdblock.js"><em>cmsAdblock.js</em></a></td><td>Yswag<br>ddgksf2013</td>
     	</tr>
      <tr>
-		<td > 30 </td> <td > 彩云天气净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf"><em>CaiYunAds.conf</em></a></td><td>ddgksf2013</td> 
+		<td > 29 </td> <td > 彩云天气净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf"><em>CaiYunAds.conf</em></a></td><td>ddgksf2013</td> 
     </tr>
 	<tr>
-		<td > 31 </td> <td > <strong>知乎去广告[墨鱼自用版]</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d43179d848586d561dbb968dee93bae8/raw/Zhihu.Adblock.js"><em>Zhihu.Adblock.js</em></a></td><td>ddgksf2013<br>blackmatrix7</td>  
+		<td > 30 </td> <td > <strong>知乎去广告[墨鱼自用版]</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d43179d848586d561dbb968dee93bae8/raw/Zhihu.Adblock.js"><em>Zhihu.Adblock.js</em></a></td><td>ddgksf2013<br>blackmatrix7</td>  
     </tr>
 	<tr>
-		<td > 32 </td> <td > 贴吧去广告[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf"><em>Tieba_Ads.conf</em></a></td><td>ddgksf2013<br>app2smile</td>  
+		<td > 31 </td> <td > 贴吧去广告[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf"><em>Tieba_Ads.conf</em></a></td><td>ddgksf2013<br>app2smile</td>  
     </tr>
 	<tr>
-		<td > 33 </td> <td > Reddit去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf"><em>RedditAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 32 </td> <td > Reddit去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf"><em>RedditAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 34 </td> <td > 网易邮箱大师净化[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/NeteaseMailAds.conf"><em>MailAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 33 </td> <td > 网易邮箱大师净化[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/NeteaseMailAds.conf"><em>MailAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 35 </td> <td > <strong>闲鱼净化[JQ版]</strong> </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/GoofishAds.conf"><em>GoofishAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 34 </td> <td > <strong>闲鱼净化[JQ版]</strong> </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/GoofishAds.conf"><em>GoofishAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 36 </td> <td > 汽水音乐净化[JQ版]<br>卸载重装 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/QiShuiMusicAds.conf"><em>QiShuiMusicAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 35 </td> <td > 汽水音乐净化[JQ版]<br>卸载重装 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/QiShuiMusicAds.conf"><em>QiShuiMusicAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 37 </td> <td > 小宇宙FM去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/XiaoYuZhouAds.conf"><em>XiaoYuZhouAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 36 </td> <td > 小宇宙FM去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/XiaoYuZhouAds.conf"><em>XiaoYuZhouAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 38 </td> <td > 车来了净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/CheLaiLeAds.cof"><em>CheLaiLeAds.cof</em></a></td><td>ddgksf2013</td>  
+		<td > 37 </td> <td > 车来了净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/CheLaiLeAds.cof"><em>CheLaiLeAds.cof</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 39 </td> <td > 墨迹天气去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/MoJiWeatherAds.conf"><em>MoJiWeatherAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 38 </td> <td > 墨迹天气去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/MoJiWeatherAds.conf"><em>MoJiWeatherAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 40 </td> <td > 搜图神器净化 </td> <td ><a href="https://ddgksf2013.top/scripts/soutushenqi.vip.js"><em>soutushenqi.vip.js</em></a></td><td>ddgksf2013</td>  
+		<td > 39 </td> <td > 搜图神器净化 </td> <td ><a href="https://ddgksf2013.top/scripts/soutushenqi.vip.js"><em>soutushenqi.vip.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 41 </td> <td > 淘票票净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TaoPiaoPiaoAds.conf"><em>TaoPiaoPiaoAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 40 </td> <td > 淘票票净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TaoPiaoPiaoAds.conf"><em>TaoPiaoPiaoAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 42 </td> <td > 中国联通去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/ChinaUnicomAds.conf"><em>ChinaUnicomAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 41 </td> <td > 中国联通去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/ChinaUnicomAds.conf"><em>ChinaUnicomAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -246,7 +243,7 @@
 		<td > 12 </td> <td > <strong>IOS解锁天气服务</strong> </td> <td ><a href="https://github.com/NSRingo/WeatherKit/releases/latest/download/WeatherKit.snippet"><em>WeatherKit.snippet</em></a></td><td>VirgilClyne</td>  
     </tr>
 			<tr>
-		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/JD_Price.sgmodule"><em>JD_Price.sgmodule</em></a></td><td>wf021325<br>小白脸</td>  
+		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js"><em>jd_price.js</em></a></td><td>wf021325<br>小白脸</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -265,7 +262,7 @@
 		<td > 4 </td> <td > 豆瓣电影<br><strong><em>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 5 </td> <td > 解锁NewBing搜索 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/NewBing.conf"><em>NewBing.conf</em></a></td><td>Nobyda<br>ddgksf2013</td>
+		<td > 5 </td> <td ><s> 解锁NewBing搜索</s> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/NewBing.conf"><em><s>NewBing.conf</s></em></a></td><td>Nobyda<br>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 6 </td> <td > 百度搜索去广告 </td> <td ><a href="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf"><em>Adblock4limbo.conf</em></a></td><td>limbopro</td>
@@ -274,7 +271,7 @@
 		<td > 7 </td> <td > 解决Google搜索人机验证 </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet"><em>CAPTCHA.snippet</em></a></td><td>NobyDa</td>
     </tr>
 	<tr>
-		<td > 8 </td> <td > 123盘网页去广告<br>解除1G流量下载限制 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/123pan.webEnhance.sgmodule"><em>123pan.sgmodule</em></a></td><td>ddgksf2013</td>
+		<td > 8 </td> <td > 123盘网页去广告 </td> <td ><a href="https://ddgksf2013.top/scripts/123pan.ads.js"><em>123pan.ads.js</em></a></td><td>ddgksf2013</td>
     </tr>
 </table>
 
