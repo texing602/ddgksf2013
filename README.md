@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-12-28](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2026-01-26](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -32,7 +32,7 @@
 
 ## 2️⃣QuantumultX 分流：
 * 网易云音乐分流 [*NeteaseMusic.list*](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
-* 自用 ChatGPT 分流 [*OpenAi.list*](https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml)
+* 自用 ChatGPT 分流 [*OpenAi.list*](https://ddgksf2013.top/filter/Ai.yaml)
 * IP隐藏の分流[不建议使用] [*Anti-ip.list*](https://github.com/ddgksf2013/Filter/raw/master/anti-ip-attribution.list)
 * Emby分流 [*Emby.list*](https://github.com/ddgksf2013/Filter/blob/master/Emby.list)
 * 苹果手机Apple Intelligence 分流[*AppleIntelligence.list*](https://raw.githubusercontent.com/ddgksf2013/Filter/refs/heads/master/AppleIntelligence.list)
@@ -79,7 +79,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="41"><strong>广告屏蔽</strong></td>
+		<td rowspan="42"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -201,6 +201,9 @@
     </tr>
 <tr>
 		<td > 41 </td> <td > 中国联通去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/ChinaUnicomAds.conf"><em>ChinaUnicomAds.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+<tr>
+		<td > 42 </td> <td > 更多应用去广告 </td> <td ><a href="https://ddgksf2013.top"><em>https://ddgksf2013.top</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
